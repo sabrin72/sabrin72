@@ -73,9 +73,7 @@
 
 <p align="center">
   <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=sabrin72&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub statistics">
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages">
+ 
 </p>
