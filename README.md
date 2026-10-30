@@ -12,7 +12,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrin72&layout=compact&theme=vue-dark&langs_count=4&hide_border=false"
+    src="https://raw.githubusercontent.com/sabrin72/sabrin72/languages-output/languages.svg"
     height="150"
     alt="Most used languages"
   />
