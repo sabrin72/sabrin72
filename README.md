@@ -9,11 +9,11 @@
 <h3 data-importer="text" align="left">Hi 👋! My name is Sabrina and I'm a passionate web developer 👾, from Algeria.</h3>
 
 ###
-<img data-importer="image" align="left" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
 
 ###
 
-<div align="right">
+<div align="left">
   <img
     src="https://raw.githubusercontent.com/sabrin72/sabrin72/languages-output/languages.svg"
     height="150"
