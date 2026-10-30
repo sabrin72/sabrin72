@@ -10,8 +10,12 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/sabrin72/sabrin72/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrin72&layout=compact&theme=vue-dark&langs_count=4&hide_border=false"
+    height="150"
+    alt="Most used languages"
+  />
 </div>
 
 ###
@@ -78,7 +82,10 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/sabrin72/sabrin72/snake-output/snake.svg" alt="Snake animation" />
+<img
+  src="https://raw.githubusercontent.com/sabrin72/sabrin72/snake-output/snake.svg"
+  alt="Snake animation"
+/>
 
 ###
 
