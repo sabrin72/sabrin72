@@ -9,11 +9,8 @@
 <h3 data-importer="text" align="left">Hi 👋! My name is Sabrina and I'm a passionate web developer 👾, from Algeria.</h3>
 
 ###
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
 
-###
-
-<div align="left">
+<div align="center">
   <img
     src="https://raw.githubusercontent.com/sabrin72/sabrin72/languages-output/languages.svg"
     height="150"
@@ -63,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
+###
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
 
 ###
 
