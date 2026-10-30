@@ -9,6 +9,9 @@
 <h3 data-importer="text" align="left">Hi 👋! My name is Sabrina and I'm a passionate web developer 👾, from Algeria.</h3>
 
 ###
+<img data-importer="image" align="left" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
+
+###
 
 <div align="right">
   <img
@@ -17,10 +20,6 @@
     alt="Most used languages"
   />
 </div>
-
-###
-
-<img data-importer="image" align="left" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
 
 ###
 
