@@ -60,7 +60,7 @@
     height="150"
     alt="Most used languages"
   />
-<img data-importer="image" align="center" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
+<img data-importer="image" align="left" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
 
 ###
 
