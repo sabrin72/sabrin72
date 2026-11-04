@@ -8,15 +8,7 @@
 
 <h3 data-importer="text" align="left">Hi 👋! My name is Sabrina and I'm a passionate web developer 👾, from Algeria.</h3>
 
-###
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/sabrin72/sabrin72/languages-output/languages.svg"
-    height="150"
-    alt="Most used languages"
-  />
-</div>
 
 ###
 
@@ -61,21 +53,19 @@
 </div>
 
 ###
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/sabrin72/sabrin72/languages-output/languages.svg"
+    height="150"
+    alt="Most used languages"
+  />
+</div>
+
+###
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
 
 ###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.youtube.com/@AsmrCoding-ytb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/sabrina.devs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sabrinahmc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
