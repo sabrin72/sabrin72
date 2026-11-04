@@ -54,13 +54,13 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img
     src="https://raw.githubusercontent.com/sabrin72/sabrin72/languages-output/languages.svg"
     height="150"
     alt="Most used languages"
   />
-<img data-importer="image" align="left" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/b4pkwx.gif"  />
 
 ###
 
