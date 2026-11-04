@@ -54,7 +54,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img
     src="https://raw.githubusercontent.com/sabrin72/sabrin72/languages-output/languages.svg"
     height="150"
